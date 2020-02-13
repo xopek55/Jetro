@@ -12,3 +12,7 @@ header {
 section {
         background-color: tomato;
 }
+
+.header__inner {
+        background-color: yellow;
+}
