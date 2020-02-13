@@ -1,3 +1,10 @@
-body {
+html {
         box-sizing: border-box;
+}
+
+body {
+        background-color: #aaaa;
+}
+header {
+        background-color: #bbbb;
 }
